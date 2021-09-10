@@ -1,0 +1,71 @@
+[00:18:30] [main/INFO]: Setting user: Player795
+[00:18:31] [Client thread/INFO]: LWJGL Version: 2.9.1
+[00:18:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Pop
+[00:18:37] [Sound Library Loader/INFO]: Sound engine started
+[00:18:38] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[00:18:38] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[00:18:38] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Pop
+[00:18:38] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:18:38] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:18:39] [Sound Library Loader/INFO]: Sound engine started
+[00:18:52] [Client thread/INFO]: Deleting level New World
+[00:18:52] [Client thread/INFO]: Attempt 1...
+[00:18:53] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[00:18:53] [Server thread/INFO]: Generating keypair
+[00:18:53] [Server thread/INFO]: Converting map!
+[00:18:53] [Server thread/INFO]: Scanning folders...
+[00:18:53] [Server thread/INFO]: Total conversion count is 0
+[00:18:54] [Server thread/INFO]: Preparing start region for level 0
+[00:18:55] [Server thread/INFO]: Preparing spawn area: 19%
+[00:18:56] [Server thread/INFO]: Preparing spawn area: 50%
+[00:18:57] [Server thread/INFO]: Preparing spawn area: 78%
+[00:18:57] [Server thread/INFO]: Changing view distance to 16, from 10
+[00:19:02] [Server thread/INFO]: Stopping server
+[00:19:02] [Server thread/INFO]: Saving players
+[00:19:02] [Server thread/INFO]: Saving worlds
+[00:19:02] [Server thread/INFO]: Saving chunks for level 'Новый мир'/Overworld
+[00:19:04] [Server thread/INFO]: Saving chunks for level 'Новый мир'/Nether
+[00:19:04] [Server thread/INFO]: Saving chunks for level 'Новый мир'/The End
+[00:19:05] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[00:19:05] [Server thread/INFO]: Generating keypair
+[00:19:05] [Server thread/INFO]: Preparing start region for level 0
+[00:19:06] [Server thread/INFO]: Changing view distance to 16, from 10
+[00:19:06] [Server thread/INFO]: Player795[local:E:4fd8d491] logged in with entity id 1037 at (-68.5, 68.0, 249.5)
+[00:19:06] [Server thread/INFO]: Player795 присоединился к игре
+[00:19:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2793ms behind, skipping 55 tick(s)
+[00:19:11] [Server thread/INFO]: Player795 заработал достижение [Проверить карманы]
+[00:19:11] [Client thread/INFO]: [CHAT] Player795 заработал достижение [Проверить карманы]
+[00:19:13] [Server thread/INFO]: Saving and pausing game...
+[00:19:13] [Server thread/INFO]: Saving chunks for level 'Новый мир'/Overworld
+[00:19:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/Nether
+[00:19:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/The End
+[00:19:18] [Server thread/INFO]: Stopping server
+[00:19:18] [Server thread/INFO]: Saving players
+[00:19:18] [Server thread/INFO]: Saving worlds
+[00:19:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/Overworld
+[00:19:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/Nether
+[00:19:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/The End
+[00:19:28] [Client thread/INFO]: Deleting level Новый мир
+[00:19:28] [Client thread/INFO]: Attempt 1...
+[00:19:36] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[00:19:36] [Server thread/INFO]: Generating keypair
+[00:19:36] [Server thread/INFO]: Converting map!
+[00:19:36] [Server thread/INFO]: Scanning folders...
+[00:19:36] [Server thread/INFO]: Total conversion count is 0
+[00:19:36] [Server thread/INFO]: Preparing start region for level 0
+[00:19:37] [Server thread/INFO]: Preparing spawn area: 32%
+[00:19:38] [Server thread/INFO]: Preparing spawn area: 61%
+[00:19:39] [Server thread/INFO]: Preparing spawn area: 92%
+[00:19:39] [Server thread/INFO]: Changing view distance to 16, from 10
+[00:19:39] [Server thread/INFO]: Player795[local:E:48fe6c79] logged in with entity id 5155 at (201.5, 64.0, 2.5)
+[00:19:39] [Server thread/INFO]: Player795 присоединился к игре
+[00:19:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2928ms behind, skipping 58 tick(s)
+[00:19:45] [Server thread/INFO]: Player795 заработал достижение [Проверить карманы]
+[00:19:45] [Client thread/INFO]: [CHAT] Player795 заработал достижение [Проверить карманы]
+[00:19:58] [Client thread/INFO]: Stopping!
+[00:19:58] [Server thread/INFO]: Stopping server
+[00:19:58] [Server thread/INFO]: Saving players
+[00:19:58] [Server thread/INFO]: Saving worlds
+[00:19:58] [Server thread/INFO]: Saving chunks for level 'Новый мир'/Overworld
+[00:19:58] [Client Shutdown Thread/INFO]: Stopping server
+[00:19:58] [Client Shutdown Thread/INFO]: Saving players
