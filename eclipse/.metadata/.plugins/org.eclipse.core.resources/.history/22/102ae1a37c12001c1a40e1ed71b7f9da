@@ -1,0 +1,26 @@
+package ru.XCompleX.pop;
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.EventHandler;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.init.Blocks;
+
+@Mod(modid = Main.MODID, name = Main.MODNAME, version = Main.VERSION)
+
+public class Main {
+	public static final CreativeTabs tabPop = new CreativeTabs("tabPop") {
+		public Item getTabIconItem() {
+			return Item.getItemFromBlock(Blocks.lava);
+		}
+	}
+	
+ 	public static final String MODID = "Pop";
+	public static final String MODNAME = "Pop";
+	public static final String VERSION = "1.1.0";
+	
+	@EventHandler
+	public void preLoad(FMLPreInitializationEvent event) {
+		
+	}
+}
