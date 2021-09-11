@@ -1,0 +1,9 @@
+package com.example.mods;
+
+@Mod(modid = mods.MODID, name = mods.MODNAME, version = mods.VERSION)
+
+
+
+public class mods {
+
+}
